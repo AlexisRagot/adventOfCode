@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "scripts": {
+    "test": "mocha '2021/**/*.test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisRagot/adventOfCode.git"
+  },
+  "author": "Alexis Ragot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisRagot/adventOfCode/issues"
+  },
+  "homepage": "https://github.com/AlexisRagot/adventOfCode#readme"
+}
